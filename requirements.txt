@@ -1,18 +1,50 @@
+# Telegram Bot Libraries
 python-telegram-bot
 telethon
+pyrogram
+Tgcrypto
+
+# YouTube & Media Downloader Libraries
 yt-dlp
+youtube-dl
+moviepy
+
+# GitHub & Code Management Libraries
+GitPython
+PyGithub
+giturlparse
+
+# Web Scraping & HTTP Requests
 requests
 aiohttp
+httpx
 beautifulsoup4
-pydantic
-python-dotenv
-asyncio
-pillow
+lxml
+selenium
+
+# Database Libraries
+pymongo
+motor
+redis
+psycopg2-binary
+SQLAlchemy
+
+# Web Frameworks & API
 Flask
 fastapi
 uvicorn
+gunicorn
+
+# Utility & Environment Libraries
+python-dotenv
+pydantic
 psutil
 urllib3
 certifi
 idna
 charset-normalizer
+numpy
+pandas
+pillow
+colorama
+tqdm
