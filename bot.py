@@ -35,7 +35,7 @@ from telethon import types
 
 # ─── Configuration ───────────────────────────────────────────────────────
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID = int(os.getenv("OWNER_ID", "6019063884"))
+OWNER_ID = int(os.getenv("OWNER_ID", "7643191802"))
 DB_FILE = "panel_bot.db"
 
 # API Credentials (set in Railway Variables)
